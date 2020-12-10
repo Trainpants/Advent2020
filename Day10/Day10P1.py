@@ -1,9 +1,7 @@
 with open("input.txt") as datafile:
     adapters = [int(line.strip()) for line in datafile.readlines()]
 
-adapters.append(0)
-adapters.sort()
-adapters.append(adapters[-1]+3)
+adapters = sorted(adapters + [0] + [max(adapters)+3])
 
 diff = [adapters[i+1] - adapters[i] for i in range(0,len(adapters)-1)]
 
