@@ -42,7 +42,7 @@ for irow,erow in enumerate(seats[1:len(seats)-1]):
     newseats += [newrow]
 
 
-print(cap)
+print(newseats == cap)
 
 #    newseats.append(cap)
 #    if newseats != seats:
