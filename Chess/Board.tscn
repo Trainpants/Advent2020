@@ -1,0 +1,378 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="ColorRect65" type="ColorRect" parent="."]
+margin_right = 1152.0
+margin_bottom = 768.0
+color = Color( 0.00392157, 0.117647, 0, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect" type="ColorRect" parent="ColorRect65"]
+margin_left = 128.0
+margin_top = 128.0
+margin_right = 640.0
+margin_bottom = 640.0
+color = Color( 0.498039, 0.498039, 0.498039, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect" type="ColorRect" parent="."]
+margin_left = 576.0
+margin_top = 128.0
+margin_right = 640.0
+margin_bottom = 192.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect4" type="ColorRect" parent="."]
+margin_left = 128.0
+margin_top = 192.0
+margin_right = 192.0
+margin_bottom = 256.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect5" type="ColorRect" parent="."]
+margin_left = 192.0
+margin_top = 128.0
+margin_right = 256.0
+margin_bottom = 192.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect8" type="ColorRect" parent="."]
+margin_left = 256.0
+margin_top = 192.0
+margin_right = 320.0
+margin_bottom = 256.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect9" type="ColorRect" parent="."]
+margin_left = 576.0
+margin_top = 256.0
+margin_right = 640.0
+margin_bottom = 320.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect12" type="ColorRect" parent="."]
+margin_left = 128.0
+margin_top = 320.0
+margin_right = 192.0
+margin_bottom = 384.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect13" type="ColorRect" parent="."]
+margin_left = 192.0
+margin_top = 256.0
+margin_right = 256.0
+margin_bottom = 320.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect16" type="ColorRect" parent="."]
+margin_left = 256.0
+margin_top = 320.0
+margin_right = 320.0
+margin_bottom = 384.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect17" type="ColorRect" parent="."]
+margin_left = 320.0
+margin_top = 128.0
+margin_right = 384.0
+margin_bottom = 192.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect20" type="ColorRect" parent="."]
+margin_left = 384.0
+margin_top = 192.0
+margin_right = 448.0
+margin_bottom = 256.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect21" type="ColorRect" parent="."]
+margin_left = 448.0
+margin_top = 128.0
+margin_right = 512.0
+margin_bottom = 192.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect24" type="ColorRect" parent="."]
+margin_left = 512.0
+margin_top = 192.0
+margin_right = 576.0
+margin_bottom = 256.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect25" type="ColorRect" parent="."]
+margin_left = 320.0
+margin_top = 256.0
+margin_right = 384.0
+margin_bottom = 320.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect28" type="ColorRect" parent="."]
+margin_left = 384.0
+margin_top = 320.0
+margin_right = 448.0
+margin_bottom = 384.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect29" type="ColorRect" parent="."]
+margin_left = 448.0
+margin_top = 256.0
+margin_right = 512.0
+margin_bottom = 320.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect32" type="ColorRect" parent="."]
+margin_left = 512.0
+margin_top = 320.0
+margin_right = 576.0
+margin_bottom = 384.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect33" type="ColorRect" parent="."]
+margin_left = 576.0
+margin_top = 384.0
+margin_right = 640.0
+margin_bottom = 448.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect36" type="ColorRect" parent="."]
+margin_left = 128.0
+margin_top = 448.0
+margin_right = 192.0
+margin_bottom = 512.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect37" type="ColorRect" parent="."]
+margin_left = 192.0
+margin_top = 384.0
+margin_right = 256.0
+margin_bottom = 448.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect40" type="ColorRect" parent="."]
+margin_left = 256.0
+margin_top = 448.0
+margin_right = 320.0
+margin_bottom = 512.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect41" type="ColorRect" parent="."]
+margin_left = 576.0
+margin_top = 512.0
+margin_right = 640.0
+margin_bottom = 576.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect44" type="ColorRect" parent="."]
+margin_left = 128.0
+margin_top = 576.0
+margin_right = 192.0
+margin_bottom = 640.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect45" type="ColorRect" parent="."]
+margin_left = 192.0
+margin_top = 512.0
+margin_right = 256.0
+margin_bottom = 576.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect48" type="ColorRect" parent="."]
+margin_left = 256.0
+margin_top = 576.0
+margin_right = 320.0
+margin_bottom = 640.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect49" type="ColorRect" parent="."]
+margin_left = 320.0
+margin_top = 384.0
+margin_right = 384.0
+margin_bottom = 448.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect52" type="ColorRect" parent="."]
+margin_left = 384.0
+margin_top = 448.0
+margin_right = 448.0
+margin_bottom = 512.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect53" type="ColorRect" parent="."]
+margin_left = 448.0
+margin_top = 384.0
+margin_right = 512.0
+margin_bottom = 448.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect56" type="ColorRect" parent="."]
+margin_left = 512.0
+margin_top = 448.0
+margin_right = 576.0
+margin_bottom = 512.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect57" type="ColorRect" parent="."]
+margin_left = 320.0
+margin_top = 512.0
+margin_right = 384.0
+margin_bottom = 576.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect60" type="ColorRect" parent="."]
+margin_left = 384.0
+margin_top = 576.0
+margin_right = 448.0
+margin_bottom = 640.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect61" type="ColorRect" parent="."]
+margin_left = 448.0
+margin_top = 512.0
+margin_right = 512.0
+margin_bottom = 576.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect64" type="ColorRect" parent="."]
+margin_left = 512.0
+margin_top = 576.0
+margin_right = 576.0
+margin_bottom = 640.0
+color = Color( 0.0784314, 0.0901961, 0.345098, 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
